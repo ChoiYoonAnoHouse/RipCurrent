@@ -21,11 +21,11 @@
 - home버튼은 Bootstrap에서 사용 (https://www.w3schools.com/bootstrap5/bootstrap_buttons.php)
 
 ## 결과물
-![웹사이트 시작화면](https://user-images.githubusercontent.com/108312250/192415535-c3704c29-b0c2-4d3a-9a8c-0ff0368f2f5c.png)\\
+![웹사이트 시작화면](https://user-images.githubusercontent.com/108312250/192415535-c3704c29-b0c2-4d3a-9a8c-0ff0368f2f5c.png)<br>
 [웹사이트 시작화면]
 
-![해수욕장 선택 및 전국 해수욕장 위치](https://user-images.githubusercontent.com/108312250/192415209-63936cf7-a350-4ef4-8ede-f3034ff5bc9f.png)\\
+![해수욕장 선택 및 전국 해수욕장 위치](https://user-images.githubusercontent.com/108312250/192415209-63936cf7-a350-4ef4-8ede-f3034ff5bc9f.png)<br>
 [해수욕장 선택 및 전국 해수욕장 위치]
 
-![해수욕장 선택시 나오는 이안류 정보](https://user-images.githubusercontent.com/108312250/192415211-54a786f6-47c0-4977-9d4d-ea57136121bb.png)\\
+![해수욕장 선택시 나오는 이안류 정보](https://user-images.githubusercontent.com/108312250/192415211-54a786f6-47c0-4977-9d4d-ea57136121bb.png)<br>
 [해수욕장 선택 시 나오는 이안류 정보]
