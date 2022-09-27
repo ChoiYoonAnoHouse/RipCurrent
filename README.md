@@ -21,8 +21,7 @@
 - home버튼은 Bootstrap에서 사용 (https://www.w3schools.com/bootstrap5/bootstrap_buttons.php)
 
 ## 결과물
-![웹사이트 시작화면](https://user-images.githubusercontent.com/108312250/192415183-e3231d35-47bc-4e20-8ea4-1f7835160a93.png)
+![웹사이트 시작화면](https://user-images.githubusercontent.com/108312250/192415535-c3704c29-b0c2-4d3a-9a8c-0ff0368f2f5c.png)
 ![웹 사이트 구동 시 사용자의 현재위치 출력](https://user-images.githubusercontent.com/108312250/192415202-fac7a8ff-aa8b-4b4d-aa57-2ed320aac6e6.png)
-![웹사이트 시작화면](https://user-images.githubusercontent.com/108312250/192415206-a9d831c0-ba73-4401-93bf-38a19c8ce6f4.png)
 ![해수욕장 선택 및 전국 해수욕장 위치](https://user-images.githubusercontent.com/108312250/192415209-63936cf7-a350-4ef4-8ede-f3034ff5bc9f.png)
 ![해수욕장 선택시 나오는 이안류 정보](https://user-images.githubusercontent.com/108312250/192415211-54a786f6-47c0-4977-9d4d-ea57136121bb.png)
